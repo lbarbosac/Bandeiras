@@ -1,0 +1,199 @@
+.bandeira{
+    width: 600px;
+    height: 420px;
+    border: 2px solid black;
+    display: block;
+    margin: 15px;
+    float: left;
+}
+
+.bandeira2 {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    display: block;
+    margin: 15px;
+    float: left; 
+}
+
+#uzb{
+    border: 2px solid red;
+}
+
+.branco {
+    background-color: white;
+
+}
+
+.col3 { 
+    width:200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+
+.bola{
+    width: 150px;
+    height: 150px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 225px;
+    margin-top: 120px;
+}
+
+.bola2{
+    width: 150px;
+    height: 150px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 225px;
+    margin-top: 120px;
+
+}
+
+.bola3 {
+    width: 100px;
+    height: 100px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 225px;
+    margin-top: 15px;
+    border: 10px dashed blue;
+}
+
+.lishor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+
+.lisver {
+    width: 100px;
+    height: 420px;
+    position: relative;
+    left: 150px;
+    top: -100px;
+}
+
+.lisver2 {
+    width: 100px;
+    height: 420px;
+    position: relative;
+    left: 150px;
+    top: -100px;
+}
+
+.lisver3 {
+    width: 100px;
+    height: 420px;
+    position: relative;
+    left: 150px;
+    top: -100px;
+} 
+
+
+.cruz {
+    width: 300px;
+    height: 100px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.cruz2 {
+    width: 100px;
+    height: 300px;
+    margin-top: -200px;
+    margin-left: 200px;
+}
+
+.quad {
+    width: 300px;
+    height: 180px;
+}
+
+.cruz3 {
+    width: 100px;
+    height: 40px;
+    margin-left: 80px;
+    position: absolute;
+    display: inline;
+    margin-top: 30px;
+}
+
+.cruz4 {
+    width: 40px;
+    height: 100px;
+    margin-left: 110px;
+}
+
+#N {
+    border: 5px solid white;
+}
+
+.azulforte{
+    background-color: rgb(5, 5, 110);
+}
+
+.azulclaro {
+    background-color: rgb(65, 62, 235);
+}
+
+.branco {
+    background-color: white;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.vermelhoforte {
+    background-color: rgb(172, 26, 21);
+}
+
+.azula{
+    background-color: rgb(69, 83, 207);
+}
+
+.lin3 {
+    width:600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+
+.vermelho2{
+    background-color: rgb(226, 50, 50);
+}
+
+.branco2{
+    background-color: rgb(252, 252, 255);
+}
+
+.preto{
+    background-color: rgb(0, 0, 0);
+}
+
+.amarelo{
+    background-color: rgb(255, 255, 0);
+}
+
+.verde{
+    background-color: rgb(85, 153, 85);
+}
+
+.verdeclaro {
+    background-color: rgb(38, 187, 38);
+}
+
+.laranja{
+    background-color: rgb(241, 179, 63);
+}
+
+.azulfraco{
+    background-color: rgb(83, 97, 223);
+}
